@@ -1,0 +1,29 @@
+{
+  "kontakti": [
+    {
+      "id": 1,
+      "ime_prezime": "Marina Aglic Cuvic",
+      "mail": "maglic@pmfst.hr"
+    },
+    {
+      "id": 2,
+      "ime_prezime": "Jelena Maljkovic",
+      "mail": "jmaljkovi@pmfst.hr"
+    },
+    {
+      "id": 3,
+      "ime_prezime": "Katarina Maljkovic",
+      "mail": "kmaljkovic@ffst.hr"
+    },
+    {
+      "id": 4,
+      "ime_prezime": "Anja Prvan",
+      "mail": "aprvan@kit.hr"
+    },
+    {
+      "id": 5,
+      "ime_prezime": "Ante Anic",
+      "mail": "aanic@kfst.hr"
+    }
+  ]
+}
